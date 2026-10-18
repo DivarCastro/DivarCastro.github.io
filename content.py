@@ -87,8 +87,8 @@ L["es"] = dict(
  edu=[
   ("Doctorado en Ingeniería, mención Georecursos","ESPOL","2024 – Presente",["Tesis: \"Identificación y Predicción del Crecimiento Urbano en Gran Guayaquil (IPUS)\""]),
   ("Diplomado en IA Aplicada a la Docencia","Universidad de las Américas","2025",[]),
-  ("Ingeniero Oceánico Ambiental","Universität Salzburg & USFQ","2019 – 2021",[]),
-  ("M.Sc. en Sistemas y Ciencias de la Información Geográfica","ESPOL","2011 – 2015",[]),
+  ("M.Sc. en Sistemas y Ciencias de la Información Geográfica","Universität Salzburg & USFQ","2019 – 2021",[]),
+  ("Ingeniero Oceánico Ambiental","ESPOL","2011 – 2015",[]),
  ],
  courses=["Piloto certificado para manejo de drones (40 h) — DGAC","Operación y Manejo de drones (8 h) — ESPOL","Lenguaje de Programación e Inteligencia Artificial (8 h) — ESPOL","Simposio de Oceanografía 2024 (16 h) — ESPOL","Oceanografía de la Región Ecuatorial (20 h) — ESPOL","Análisis y Procesamiento de Información Oceanográfica con Python (40 h) — ESPOL","Diseño e implementación de un modelo numérico de transformación y rebase del oleaje en el litoral ecuatoriano — Modelo SWASH (80 h) — INOCAR","NASA ARSET: Introduction to NASA Earth Observations and Tools for Operational Wildfire Monitoring and Management","NASA ARSET: Monitoring Global Terrestrial Surface Water Height using Remote Sensing","NASA ARSET: Using Google Earth Engine for Land Monitoring Applications","NASA ARSET: Remote Sensing of Coastal Ecosystems","ESRI: 3D Visualization, Animation, Labeling, Manejo de capas, Datos ráster y Coordenadas en ArcGIS Pro"],
  courses_web=["Piloto certificado de drones (40 h) — DGAC","Análisis y procesamiento de información oceanográfica con Python (40 h) — ESPOL","Modelo numérico SWASH de oleaje (80 h) — INOCAR","NASA ARSET: Google Earth Engine para monitoreo terrestre; sensores remotos de ecosistemas costeros; altura de agua superficial; monitoreo de incendios","ESRI: ArcGIS Pro (visualización 3D, ráster, coordenadas)"],
@@ -156,8 +156,8 @@ L["en"] = dict(
  edu=[
   ("PhD in Engineering, Georesources track","ESPOL","2024 – Present",["Thesis: \"Identification and Prediction of Urban Growth in Greater Guayaquil (IPUS)\""]),
   ("Diploma in AI Applied to Teaching","Universidad de las Américas","2025",[]),
-  ("Environmental Ocean Engineer","Universität Salzburg & USFQ","2019 – 2021",[]),
-  ("M.Sc. in Geographic Information Systems and Science","ESPOL","2011 – 2015",[]),
+  ("M.Sc. in Geographic Information Systems and Science","Universität Salzburg & USFQ","2019 – 2021",[]),
+  ("Environmental Ocean Engineer","ESPOL","2011 – 2015",[]),
  ],
  courses=["Certified drone pilot (40 h) — DGAC","Drone operation and handling (8 h) — ESPOL","Programming Language and Artificial Intelligence (8 h) — ESPOL","Oceanography Symposium 2024 (16 h) — ESPOL","Oceanography of the Equatorial Region (20 h) — ESPOL","Oceanographic Information Analysis and Processing with Python (40 h) — ESPOL","Design and implementation of a numerical model of wave transformation and overtopping on the Ecuadorian coast — SWASH model (80 h) — INOCAR","NASA ARSET: Introduction to NASA Earth Observations and Tools for Operational Wildfire Monitoring and Management","NASA ARSET: Monitoring Global Terrestrial Surface Water Height using Remote Sensing","NASA ARSET: Using Google Earth Engine for Land Monitoring Applications","NASA ARSET: Remote Sensing of Coastal Ecosystems","ESRI: 3D Visualization, Animation, Labeling, Layer Management, Raster Data and Coordinates in ArcGIS Pro"],
  courses_web=["Certified drone pilot (40 h) — DGAC","Oceanographic data analysis and processing with Python (40 h) — ESPOL","SWASH wave numerical model (80 h) — INOCAR","NASA ARSET: Google Earth Engine for land monitoring; remote sensing of coastal ecosystems; terrestrial surface water height; wildfire monitoring","ESRI: ArcGIS Pro (3D visualization, raster data, coordinates)"],
@@ -225,8 +225,8 @@ L["pt"] = dict(
  edu=[
   ("Doutorado em Engenharia, menção em Georrecursos","ESPOL","2024 – Presente",["Tese: \"Identificação e Predição do Crescimento Urbano na Grande Guayaquil (IPUS)\""]),
   ("Diploma em IA Aplicada à Docência","Universidad de las Américas","2025",[]),
-  ("Engenheiro Oceânico Ambiental","Universität Salzburg & USFQ","2019 – 2021",[]),
-  ("M.Sc. em Sistemas e Ciências da Informação Geográfica","ESPOL","2011 – 2015",[]),
+  ("M.Sc. em Sistemas e Ciências da Informação Geográfica","Universität Salzburg & USFQ","2019 – 2021",[]),
+  ("Engenheiro Oceânico Ambiental","ESPOL","2011 – 2015",[]),
  ],
  courses=["Piloto certificado de drones (40 h) — DGAC","Operação e manejo de drones (8 h) — ESPOL","Linguagem de Programação e Inteligência Artificial (8 h) — ESPOL","Simpósio de Oceanografia 2024 (16 h) — ESPOL","Oceanografia da Região Equatorial (20 h) — ESPOL","Análise e Processamento de Informação Oceanográfica com Python (40 h) — ESPOL","Desenho e implementação de um modelo numérico de transformação e galgamento de ondas no litoral equatoriano — Modelo SWASH (80 h) — INOCAR","NASA ARSET: Introduction to NASA Earth Observations and Tools for Operational Wildfire Monitoring and Management","NASA ARSET: Monitoring Global Terrestrial Surface Water Height using Remote Sensing","NASA ARSET: Using Google Earth Engine for Land Monitoring Applications","NASA ARSET: Remote Sensing of Coastal Ecosystems","ESRI: Visualização 3D, Animação, Rotulagem, Gerenciamento de camadas, Dados raster e Coordenadas no ArcGIS Pro"],
  courses_web=["Piloto certificado de drones (40 h) — DGAC","Análise e processamento de informação oceanográfica com Python (40 h) — ESPOL","Modelo numérico de ondas SWASH (80 h) — INOCAR","NASA ARSET: Google Earth Engine para monitoramento terrestre; sensoriamento remoto de ecossistemas costeiros; altura da água superficial; monitoramento de incêndios","ESRI: ArcGIS Pro (visualização 3D, raster, coordenadas)"],
@@ -234,3 +234,23 @@ L["pt"] = dict(
  ref_role="Pesquisadora Docente", ref_role_m="Pesquisador Docente",
  footer="Guayaquil, Equador",
 )
+
+# ---------------------------------------------------------------- POSTS
+# Agrega aquí las publicaciones/noticias en las que participas.
+# (fecha por idioma, título, resumen por idioma, enlace, fuente)
+POSTS = [
+ dict(
+  date=dict(es="Sep 2025", en="Sep 2025", pt="Set 2025"),
+  title=dict(
+    es="Investigador de FICT recibe reconocimiento internacional en conferencia organizada por MDPI Land",
+    en="FICT researcher receives international recognition at conference organized by MDPI Land",
+    pt="Pesquisador da FICT recebe reconhecimento internacional em conferência organizada pela MDPI Land"),
+  desc=dict(
+    es="Mejor presentación oral en The 2nd International Electronic Conference on Land, con la comparación de algoritmos de clasificación supervisada para LULC en Guayaquil.",
+    en="Best Oral Presentation at The 2nd International Electronic Conference on Land, with the comparison of supervised classification algorithms for LULC in Guayaquil.",
+    pt="Melhor apresentação oral na The 2nd International Electronic Conference on Land, com a comparação de algoritmos de classificação supervisionada para LULC em Guayaquil."),
+  url="https://www.fict.espol.edu.ec/en/news/fict-researcher-receives-international-recognition-conference-organized-mdpi-land",
+  source="FICT-ESPOL"),
+]
+POSTS_H = dict(es="Posts", en="Posts", pt="Posts")
+POSTS_MORE = dict(es="Leer publicación →", en="Read post →", pt="Ler publicação →")
